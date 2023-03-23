@@ -1,0 +1,5 @@
+cmake==3.26.0
+opencv-python==4.7.0.72
+flask
+numpy
+opencv-python-headless
